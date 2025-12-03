@@ -22,3 +22,5 @@ print(z)
 
 print(x.base)
 print(y.base)
+
+print(z.base)
