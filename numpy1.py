@@ -13,3 +13,9 @@ arr[0] = 42
 
 print(arr)
 print(y)
+
+z = arr.view()
+z[0] = 31
+
+print(arr)
+print(z)
