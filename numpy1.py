@@ -19,3 +19,6 @@ z[0] = 31
 
 print(arr)
 print(z)
+
+print(x.base)
+print(y.base)
